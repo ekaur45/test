@@ -66,7 +66,57 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="font-awesome\less\fa-brands.less" />
+    <Content Include="font-awesome\less\fa-regular.less" />
+    <Content Include="font-awesome\less\fa-solid.less" />
+    <Content Include="font-awesome\less\fontawesome.less" />
+    <Content Include="font-awesome\less\_animated.less" />
+    <Content Include="font-awesome\less\_bordered-pulled.less" />
+    <Content Include="font-awesome\less\_core.less" />
+    <Content Include="font-awesome\less\_fixed-width.less" />
+    <Content Include="font-awesome\less\_icons.less" />
+    <Content Include="font-awesome\less\_larger.less" />
+    <Content Include="font-awesome\less\_list.less" />
+    <Content Include="font-awesome\less\_mixins.less" />
+    <Content Include="font-awesome\less\_rotated-flipped.less" />
+    <Content Include="font-awesome\less\_screen-reader.less" />
+    <Content Include="font-awesome\less\_stacked.less" />
+    <Content Include="font-awesome\less\_variables.less" />
+    <Content Include="font-awesome\scss\fa-brands.scss" />
+    <Content Include="font-awesome\scss\fa-regular.scss" />
+    <Content Include="font-awesome\scss\fa-solid.scss" />
+    <Content Include="font-awesome\scss\fontawesome.scss" />
+    <Content Include="font-awesome\scss\_animated.scss" />
+    <Content Include="font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="font-awesome\scss\_core.scss" />
+    <Content Include="font-awesome\scss\_fixed-width.scss" />
+    <Content Include="font-awesome\scss\_icons.scss" />
+    <Content Include="font-awesome\scss\_larger.scss" />
+    <Content Include="font-awesome\scss\_list.scss" />
+    <Content Include="font-awesome\scss\_mixins.scss" />
+    <Content Include="font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="font-awesome\scss\_screen-reader.scss" />
+    <Content Include="font-awesome\scss\_stacked.scss" />
+    <Content Include="font-awesome\scss\_variables.scss" />
+    <Content Include="font-awesome\webfonts\fa-brands-400.eot" />
+    <Content Include="font-awesome\webfonts\fa-brands-400.ttf" />
+    <Content Include="font-awesome\webfonts\fa-brands-400.woff" />
+    <Content Include="font-awesome\webfonts\fa-brands-400.woff2" />
+    <Content Include="font-awesome\webfonts\fa-regular-400.eot" />
+    <Content Include="font-awesome\webfonts\fa-regular-400.ttf" />
+    <Content Include="font-awesome\webfonts\fa-regular-400.woff" />
+    <Content Include="font-awesome\webfonts\fa-regular-400.woff2" />
+    <Content Include="font-awesome\webfonts\fa-solid-900.eot" />
+    <Content Include="font-awesome\webfonts\fa-solid-900.ttf" />
+    <Content Include="font-awesome\webfonts\fa-solid-900.woff" />
+    <Content Include="font-awesome\webfonts\fa-solid-900.woff2" />
     <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.2.1.min.map" />
+    <Content Include="Scripts\jquery-3.2.1.slim.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,7 +125,36 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\footer-distributed-with-address-and-phones.css" />
+    <Content Include="Content\gallary.css" />
+    <Content Include="Content\site.css" />
+    <Content Include="font-awesome\css\fa-brands.css" />
+    <Content Include="font-awesome\css\fa-brands.min.css" />
+    <Content Include="font-awesome\css\fa-regular.css" />
+    <Content Include="font-awesome\css\fa-regular.min.css" />
+    <Content Include="font-awesome\css\fa-solid.css" />
+    <Content Include="font-awesome\css\fa-solid.min.css" />
+    <Content Include="font-awesome\css\fontawesome-all.css" />
+    <Content Include="font-awesome\css\fontawesome-all.min.css" />
+    <Content Include="font-awesome\css\fontawesome.css" />
+    <Content Include="font-awesome\css\fontawesome.min.css" />
+    <Content Include="font-awesome\webfonts\fa-brands-400.svg" />
+    <Content Include="font-awesome\webfonts\fa-regular-400.svg" />
+    <Content Include="font-awesome\webfonts\fa-solid-900.svg" />
     <Content Include="index.html" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\imageGrid.js" />
+    <None Include="Scripts\jquery-3.2.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.2.1.js" />
+    <Content Include="Scripts\jquery-3.2.1.min.js" />
+    <Content Include="Scripts\jquery-3.2.1.slim.js" />
+    <Content Include="Scripts\jquery-3.2.1.slim.min.js" />
+    <Content Include="Scripts\site.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
